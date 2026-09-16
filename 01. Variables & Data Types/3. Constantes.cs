@@ -1,4 +1,4 @@
-/*Las constantes son variables inmutables que se conocen conocen en tiempo
+/*Las constantes son variables inmutables que se conocen en tiempo
 de compilación y no cambian durante la vida del programa. Las constantes
 se declaran con el modificador const.*/
 

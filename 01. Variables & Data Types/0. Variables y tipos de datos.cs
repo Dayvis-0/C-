@@ -1,3 +1,5 @@
+using System;
+
 /*Para declarar una variable local, especifique su tipo y proporcione su nombre.
 Puede declarar varias variable del mismo tipo en una instrucción.*/
 
@@ -11,8 +13,8 @@ a = 10;
 int z = x + a;
 int age = 20;
 
-System.Console.WriteLine(x);
-System.Console.WriteLine("Your age is " + age);
+Console.WriteLine(x);
+Console.WriteLine("Your age is " + age);
 
 // Tipos numéricos
 
